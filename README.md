@@ -20,4 +20,4 @@ If you are greeted by a screen similar to the following, then you have access!
 If you don't have access and you are either SDSU Faculty or Staff, then you can submit [this form](https://sdsu.service-now.com/sp?id=sc_cat_item&sys_id=c4ce9d52db0e68509804f271399619a4&sysparm_category=29ac153fdbbf4c9024094672399619e9) to request access. Students will be granted access based on enrollment in courses that are using the Instructional Cluster.
 
 ## 🚀 Let's get started!
-Now that we're cleared for take-off, let's launch on over to our first topic: [containers](/docs/containers)!
+Now that we're cleared for take-off, let's launch on over to our first topic: [containers](/docs/containers.md)!
