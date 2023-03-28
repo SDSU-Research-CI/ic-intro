@@ -3,11 +3,11 @@ This repository is designed to be an interactive introduction to the [Instructio
 
 This intro assumes that you are familiar with a [Linux Operating System](https://en.wikipedia.org/wiki/Linux) and have some level of comfort with commandline interfaces.
 
-## 📅 Agenda
-This introduction will cover the following topics:
-1. Understanding Containers
-2. Basics of git source control
-3. Using Jupyter Notebooks
+## 🎓 Learning Outcomes
+After completing this introduction, you should:
+1. Be able to use basic git commands
+2. Understand core concepts of Software Containers
+3. Be able to use Jupyter Notebooks
 
 ## 🔑 Accessing the Instructional Cluster
 If you are following this introduction as part of a training offered by [Research and Cyberinfrastructure](https://it.sdsu.edu/research) chances are that you already have access to the Instructional Cluster.
@@ -44,4 +44,7 @@ $ git clone https://github.com/SDSU-Research-CI/ic-intro.git
 You should see output similar to the following, and you should also see a directory "ic-intro" in the file explorer pane:
 ![cloning ic-intro repository](./images/get-started3.png)
 
-With our Jupyter Notebook launced and a copy of this repo cloned, let's navigate to our first topic: [git source control management](./docs/git.md).
+You can also open this readme in your Jupyter Notebook from the file explorer pane by clicking into the ic-intro directory, then right-click README.md > Open with > Markdown preview.
+![preview readme](./images/get-started4.png)
+
+With our Jupyter Notebook launched and a copy of this repo cloned, let's navigate to our first topic: [git source control management](./notebooks/git.ipynb).
