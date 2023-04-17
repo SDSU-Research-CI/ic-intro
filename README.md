@@ -52,5 +52,5 @@ You can also open this readme in your Jupyter Notebook from the file explorer pa
 
 ![preview readme](./images/get-started4.png)
 
-## 🚀 Next Destination: Git Source Control Management
-With our Jupyter Notebook fired up and a copy of this repo cloned, let's launch over to our first topic: [Git Source Control Management](./notebooks/git.ipynb).
+## 🚀 Next Destination: Jupyter Notebooks
+With our Jupyter Notebook fired up and a copy of this repo cloned, let's launch over to our first topic: [Jupyter Notebooks](./notebooks/jupyter.ipynb).
