@@ -12,7 +12,7 @@ After completing this introduction, you should:
 ## 🔑 Accessing the Instructional Cluster
 If you are following this introduction as part of a training offered by [Research and Cyberinfrastructure](https://it.sdsu.edu/research) chances are that you already have access to the Instructional Cluster.
 
-You can check your access to the Instructional Cluster by following these [login instructions](https://sdsu-research-ci.github.io/instructionalcluster/students/loggingin).
+You can check your access to the Instructional Cluster by following the [written login instructions](https://sdsu-research-ci.github.io/instructionalcluster/students/loggingin) or via the [video login instructions](https://sdsu-research-ci.github.io/instructionalcluster/videos/access).
 
 If you are greeted by a screen similar to the following, then you have access!
 
