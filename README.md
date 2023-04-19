@@ -1,7 +1,7 @@
 # 👋 Welcome to the Instructional Cluster Intro
-This repository is designed to be an interactive introduction to the [Instructional Cluster](https://sdsu-research-ci.github.io/instructionalcluster) at San Diego State University.
+This repository is designed to be an interactive introduction to the <a href="https://sdsu-research-ci.github.io/instructionalcluster" target="_blank">Instructional Cluster</a> at San Diego State University.
 
-This intro assumes that you are familiar with a [Linux Operating System](https://en.wikipedia.org/wiki/Linux) and have some level of comfort with commandline interfaces.
+This intro assumes that you are familiar with a <a href="https://en.wikipedia.org/wiki/Linux" target="_blank">Linux Operating System</a> and have some level of comfort with commandline interfaces.
 
 ## ✔ Mission Objectives
 After completing this introduction, you should:
@@ -10,18 +10,18 @@ After completing this introduction, you should:
 3. Be able to use Jupyter Notebooks
 
 ## 🔑 Accessing the Instructional Cluster
-If you are following this introduction as part of a training offered by [Research and Cyberinfrastructure](https://it.sdsu.edu/research) chances are that you already have access to the Instructional Cluster.
+If you are following this introduction as part of a training offered by <a href="https://it.sdsu.edu/research" target="_blank">Research and Cyberinfrastructure</a> chances are that you already have access to the Instructional Cluster.
 
-You can check your access to the Instructional Cluster by following the [written login instructions](https://sdsu-research-ci.github.io/instructionalcluster/students/loggingin) or via the [video login instructions](https://sdsu-research-ci.github.io/instructionalcluster/videos/access).
+You can check your access to the Instructional Cluster by following the <a href="https://sdsu-research-ci.github.io/instructionalcluster/students/loggingin" target="_blank">written login instructions</a> or via the <a href="https://sdsu-research-ci.github.io/instructionalcluster/videos/access" target="_blank">video login instructions</a>.
 
 If you are greeted by a screen similar to the following, then you have access!
 
 ![access](./images/access1.png)
 
-If you don't have access and you are either SDSU Faculty or Staff, then you can submit [this form](https://sdsu.service-now.com/sp?id=sc_cat_item&sys_id=c4ce9d52db0e68509804f271399619a4&sysparm_category=29ac153fdbbf4c9024094672399619e9) to request access. Students will be granted access based on enrollment in courses that are using the Instructional Cluster.
+If you don't have access and you are either SDSU Faculty or Staff, then you can submit <a href="https://sdsu.service-now.com/sp?id=sc_cat_item&sys_id=c4ce9d52db0e68509804f271399619a4&sysparm_category=29ac153fdbbf4c9024094672399619e9" target="_blank">this form</a> to request access. Students will be granted access based on enrollment in courses that are using the Instructional Cluster.
 
 ## 👨‍🚀👩‍🚀 Prepare for Launch!
-Now that we're cleared for take-off, let's [fire up your Jupyter Noteboook](https://sdsu-research-ci.github.io/instructionalcluster/students/launchcontainer) on the Instructional Cluster. For this introduction we will use the following selections for the given options:
+Now that we're cleared for take-off, let's <a href="https://sdsu-research-ci.github.io/instructionalcluster/students/launchcontainer" target="_blank">fire up your Jupyter Noteboook</a> on the Instructional Cluster. For this introduction we will use the following selections for the given options:
 
 Option    | Selection
 :---------|:---------:
